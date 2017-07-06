@@ -1,4 +1,4 @@
-ccx %Limpeza
+ccx %Limpeza XIRI
 % Adicionar ao path a pasta de VADS e as subpastas
 vadsPath = genpath('VADS');
 matsPath = genpath('MATs');
